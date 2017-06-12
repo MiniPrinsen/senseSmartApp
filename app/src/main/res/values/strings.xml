@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SenseSmart</string>
+    <!--NAVIGATIONBAR STRINGS-->
+    <string name="navigation_map_name">NÄRA MIG</string>
+    <string name="navigation_chat_name">CHATT</string>
+    <string name="navigation_achievement_name">PRISER</string>
+
+
+</resources>

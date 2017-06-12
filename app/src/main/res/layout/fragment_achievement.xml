@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.viktor.sensesmart.AchievementFragment"
+    android:clickable="true">
+<!--THIS XML IS NOT USED AT THE MOMENT, BUT IT WILL BE THE XML FOR THE ACHIEVEMENT PAGE
+WHEN IT CAN BE IMPLEMENTED. RIGHT NOW IT'S JUST A CIRCULAR PROGRESSBAR ON THAT PAGE.-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Du har klarat av"
+        android:textColor="@color/colorYellow"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="110dp"
+        android:textSize="20dp"/>
+    <com.mikhaellopez.circularprogressbar.CircularProgressBar
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="80dp"
+        android:id="@+id/progress"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:cpb_progress="0"
+        app:cpb_background_progressbar_width="5dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        app:cpb_progressbar_width="5dp"
+        />
+
+
+</FrameLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--THESE ARE THE BLUE COLORS, MAIN COLOR OF APP-->
+    <color name="colorPrimaryLight">#AEE1F0</color>
+    <color name="colorPrimaryMediumLight">#79C6DC</color>
+    <color name="colorPrimary">#51ADC7</color>
+    <color name="colorPrimaryMediumDark">#3194B0</color>
+    <color name="colorPrimaryDark">#147D9B</color>
+
+    <!--THESE ARE SOME RANDOM GRAY COLORS THAT MIGHT BE GOOD-->
+    <color name="colorWhiteTransparent">#80FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrayMediumLight">#E0DFDF</color>
+    <color name="colorGray">#C6C5C5</color>
+    <color name="colorGrayMediumDark">#ADACAC</color>
+    <color name="colorGrayDark">#6D6C6C</color>
+
+    <!--THESE ARE THE COLORS FOR THE ACHIEVEMENTS-->
+    <color name="colorYellowLight">#FFE9B7</color>
+    <color name="colorYellowMediumLight">#FFDB88</color>
+    <color name="colorYellow">#FFD063</color>
+    <color name="colorYellowMediumDark">#FFC642</color>
+    <color name="colorYellowDark">#FAB618</color>
+
+    <!--THESE ARE THE COLORS FOR ACTIVE CHAT-->
+    <color name="colorGreenLight">#AFF4C4</color>
+    <color name="colorGreenMediumLight">#7CE79C</color>
+    <color name="colorGreen">#54D87C</color>
+    <color name="colorGreenMediumDark">#34C861</color>
+    <color name="colorGreenDark">#12B944</color>
+
+    <!--THESE ARE SOME RANDOM COLORS OF THE COLOR SCHEME-->
+    <color name="colorRedLight">#FFC1B7</color>
+    <color name="colorRedMediumLight">#FF9888</color>
+    <color name="colorRed">#FF7863</color>
+    <color name="colorRedMediumDark">#FF5C42</color>
+    <color name="colorRedDark">#FA3718</color>
+</resources>

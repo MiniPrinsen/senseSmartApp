@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorYellow"
+        android:layout_margin="0dp"
+        android:padding="0dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/headerImage">
+    </ImageView>
+    <TextView
+        android:id="@+id/headerTitle"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/image_lejonstromsbron"
+        android:gravity="center_vertical|bottom"
+        android:text="Large Text"
+        android:singleLine="true"
+        android:textAllCaps="true"
+        android:textSize="16sp"
+        android:paddingLeft="16dp"
+        android:textStyle="bold" />
+</LinearLayout>
